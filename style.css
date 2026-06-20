@@ -1,0 +1,36 @@
+*{
+background-color: orange;
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+#head{
+    color: red; background-color: lime;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+#para2{
+    color: black; font-size: 30px;
+}
+#ul li{
+    color: white;
+}
+ul li span{
+    color: blue; background-color: yellow; text-decoration: underline;
+}
+ul li mark{
+    color: blue; background-color: purple; text-decoration: underline;
+}
+ol li span{
+    color: blue;
+}
+ol li mark{
+    color: red
+}
