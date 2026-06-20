@@ -1,6 +1,8 @@
-# soha_web_dev
-Hi all!
-I am Soha and I am learning Web Development this summer.
-I will doucment my journey here. Have a look as I make some cool projects (hopefully). Though it will be basic at first but we'll get close to excellence slowly.
-
-## Thank you for your time and interest!!
+## In this task I tried CSS for the first time.
+I made use of external css and different selectors used for it like :
+1. element selector
+2. id selector
+3. class selector
+4. universal selector
+5. nested selector
+I faced some problem in last steps when we were not allowed to use inline css nor id/class though I solved it using nested selector by spanning the words/list item.
