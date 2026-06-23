@@ -1,8 +1,7 @@
-## In this task I tried CSS for the first time.
-I made use of external css and different selectors used for it like :
-1. element selector
-2. id selector
-3. class selector
-4. universal selector
-5. nested selector
-I faced some problem in last steps when we were not allowed to use inline css nor id/class though I solved it using nested selector by spanning the words/list item.
+## In this task I tried box model of CSS
+I explored margins and padding, also learned how to keep a element in the scope of it's parent.
+I learned applying gradients as well.
+### How to run:
+Open the index.html file to run in your browser.
+or
+Simple click on the working github link to open the delpoyed site.
