@@ -1,36 +1,20 @@
 *{
-background-color: orange;
+    margin: 0px;
 }
-.head{
-    color: darkblue;
+.img {
+    padding: 10vh 25vw;
+    display: block;
 }
-#bglime{
-    background-color: lime;
+.img img{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
 }
-#head{
-    color: red; background-color: lime;
-}
-p{
+.img button{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
     color: white;
-}
-#para{
-    color: green;
-}
-#para2{
-    color: black; font-size: 30px;
-}
-#ul li{
-    color: white;
-}
-ul li span{
-    color: blue; background-color: yellow; text-decoration: underline;
-}
-ul li mark{
-    color: blue; background-color: purple; text-decoration: underline;
-}
-ol li span{
-    color: blue;
-}
-ol li mark{
-    color: red
+    background: linear-gradient(to right, hsl(47, 100%, 47%), hsl(80, 100%, 49%), hwb(149 0% 54%));
+    border: none;
 }
